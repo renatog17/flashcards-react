@@ -1,0 +1,28 @@
+h2{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.nav-links{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.decks-header {
+    display: flex;
+    align-items: center;    /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+    gap: 8px;               /* Espaço entre o título e o ícone */
+}
+
+.decks-header h2{
+    margin-top: 12px;
+}
+
+.add-button {
+    cursor: pointer;
+  }
