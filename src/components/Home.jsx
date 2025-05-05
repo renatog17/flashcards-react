@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home(){
     return(
-        <div>rotas</div>
+        <div>Bem vindo ao seu App de flashcards</div>
     );
 }
 

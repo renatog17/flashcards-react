@@ -6,7 +6,7 @@ import { Router, Routes, Route, Outlet } from "react-router";
 export default function LayoutWithSidebar() {
   return (
     <div className="app-container">
-      <div className="sidebar">
+      <div >
         <Sidebar />
       </div>
       <div className="content">
